@@ -1,2 +1,6 @@
+cd ~
+cd .ssh
+ssh-keygen -t rsa
+
 git init
 git remote add origin git@github.com:clairebest/clairebest.github.io.git
